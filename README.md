@@ -12,4 +12,4 @@
 This is a static Next.js blog. Log and short content is currently stored as JSON files in `public/data/` and used to render the site.
 
 ## Deployment
-Deployed on [Vercel](https://blog-danightmart2.vercel.app).
+Deployed on [Vercel](https://blog-nightn2.vercel.app).
